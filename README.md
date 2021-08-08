@@ -10,7 +10,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install smartap
 pip install smartapi-python
 pip install websocket-client
 ```
-
+#if you are using external environment and want use that in jupyter notepbook
+%load_ext dotenv
+%dotenv
 ## Usage
 
 ```python
