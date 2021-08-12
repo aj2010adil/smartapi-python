@@ -136,4 +136,8 @@ data=hist_data(obj)
 
 FEED_TOKEN= fetch_the_feedtoken(obj)
 ss = WebSocket()
-print(ss)
+# print(ss)
+import talib
+
+
+
